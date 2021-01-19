@@ -1,2 +1,2 @@
 # SoftUniPythonAdvanced
-My exercises 
+My exercises
